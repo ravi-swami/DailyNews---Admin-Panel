@@ -1,5 +1,5 @@
 # DailyNews---Admin-Panel
-This is an Android Application for managing content of DailyNews Application. This is an Admin Panel of DailyNews - College News Application.
+This is an Android Application for managing content of DailyNews Application. This is the Admin Panel of DailyNews - College News Application.
 
 Requirements -
 
